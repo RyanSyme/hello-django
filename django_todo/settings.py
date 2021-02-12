@@ -26,7 +26,7 @@ SECRET_KEY = '^(2roi#1dl!8b!_^5f2kvai^fbsmagy#9p1=@h%_d6j44v9%gw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://roosticles-django-todo-app.herokuapp.com/']
 
 
 # Application definition
